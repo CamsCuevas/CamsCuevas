@@ -1,1 +1,1 @@
-<img src="Camila Cuevas.jpg">
+<img src="Camila Cuevas.png">
