@@ -2,11 +2,11 @@
 
 [^1]: Creado por Camila Cuevas
 
-Hi world, nice to meet you!
+*Hi world, nice to meet you!*
 
-🙋 Camila Cuevas   
-🐏 PrepaTec 5to semestre  
-📍 Tampico, México
++ 🙋 Camila Cuevas   
++ 🐏 PrepaTec 5to semestre  
++ 📍 Tampico, México
 
 -----------
 
@@ -17,6 +17,7 @@ Hi world, nice to meet you!
 ♟ Ajedrecista  
 🖋 Arte contemporáneo  
 
+  
 📩 camypowerr@gmail.com
 
 
