@@ -5,17 +5,19 @@
 ### Hi world, nice to meet you!
 
 + 🙋 Camila Cuevas   
-+ 🐏 PrepaTec 5to semestre  
++ 🐏 PrepaTec Golden Academic Award (2021-2024)
++ 💙 11th generation of "Líderes del Mañana"
++ ⚙ Mechatronics Engineer in process
 + 📍 Tampico, México
 
 -----------
 
-👩‍💻 Desarrolladora Front-End Jr.  
+👩‍💻 Web Developer (Jr.)  
 💜 Tecnolochicas PRO Summer Camp 2023  
-🥇🥈🥉 Olímpica matemática  
-📐 Entrenadora de mate  
-♟ Ajedrecista  
-🖋 Arte contemporáneo  
+🥇🥈🥉 Math olympic 
+📐 Math trainer 
+♟ Chess player
+🖋 I like art  
 
 -----
 ### Tools
