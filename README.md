@@ -7,7 +7,7 @@
 + 🙋 Camila Cuevas   
 + 🐏 PrepaTec Golden Academic Award (2021-2024)
 + 💙 11th generation of "Líderes del Mañana"
-+ ⚙ Mechatronics Engineer in process
++ ⚙ Engineer in process
 + 📍 Tampico, México
 
 -----------
